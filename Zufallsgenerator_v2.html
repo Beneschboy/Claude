@@ -947,7 +947,7 @@ function SpielplatzMode(props){
         x:startX,laneY:laneY,
         wobble:Math.random()*Math.PI*2,
         wobbleSpd:0.045+Math.random()*0.045,
-        speed:isWin?(0.83+Math.random()*0.05):(0.76+Math.random()*0.09),
+        speed:0.78+Math.random()*0.04,
         alive:true,elimT:0,elimEmoji:'\u{1F4A5}',
         trail:[],
       };
@@ -960,6 +960,8 @@ function SpielplatzMode(props){
       activeZone:null,zoneFlashT:0,
       particles:[],
       shockwaves:[],
+      raceX:startX,
+      mineActive:false,
     };
 
     var CDOffset=3300;
@@ -976,6 +978,7 @@ function SpielplatzMode(props){
           var g=gRef.current;if(!g||g.done)return;
           setZoneMsg(zone.emoji+' '+zone.name+' schlägt zu!');
           g.activeZone=zIdx;g.zoneFlashT=0;
+          if(zIdx===3) g.mineActive=true;
           // Shockwave ring from zone center
           var zCx=(zone.xPct[0]+zone.xPct[1])/2*SPL_AW;
           var zMaxR=Math.max(g.AH*0.75,(zone.xPct[1]-zone.xPct[0])*SPL_AW*0.9);
@@ -1016,7 +1019,7 @@ function SpielplatzMode(props){
             setZoneMsg(ze.emoji+' '+killed+' eliminiert! Noch '+left+' im Rennen');
             later(function(){setZoneMsg('');},2200);
           })(toKill.length,leftAlive,zone);
-        },CDOffset+ZONE_TIMES[zIdx]+800);
+        },CDOffset+(zIdx===3?15600:ZONE_TIMES[zIdx]+800));
       })(zi);
     }
 
@@ -1092,16 +1095,25 @@ function SpielplatzMode(props){
       if(sw.alpha<0.01)g.shockwaves.splice(si,1);
     }
 
+    // Global race progress — ALL alive chars share this x before the minefield
+    g.raceX=Math.min(g.finishX,g.raceX+0.80*dt);
+    var minePassed=g.mineActive;
+
     // Update characters + trails
     for(var i=0;i<g.chars.length;i++){
       var c=g.chars[i];
       c.wobble+=c.wobbleSpd*dt;
       var tcy=c.laneY+Math.sin(c.wobble)*2.8;
       if(c.alive){
-        var inMine=(c.x/SPL_AW)>SPL_ZONES[3].xPct[0]&&c.id!==g.winIdx;
-        var spd=inMine?c.speed*0.20:c.speed;
-        c.x+=spd*dt;
-        if(c.x>g.finishX)c.x=g.finishX;
+        if(minePassed){
+          // Minenfeld: winner rockets ahead, others crawl
+          var mineSpd=c.id===g.winIdx?0.80*2.2:0.80*0.20;
+          c.x+=mineSpd*dt;
+          if(c.x>g.finishX)c.x=g.finishX;
+        } else {
+          // Vor dem Minenfeld: exakt synchron
+          c.x=g.raceX;
+        }
         c.trail.push({x:c.x,y:tcy});
         if(c.trail.length>10)c.trail.shift();
       } else {
@@ -1227,8 +1239,9 @@ function SpielplatzMode(props){
       var alpha=c.alive?1.0:Math.max(0,1.0-c.elimT*0.67);
       var cw=Math.min(42,charH*1.7);var ch2=Math.max(13,charH*0.72);
       ctx.globalAlpha=alpha;
-      // Winner glow pulse
-      if(c.id===g.winIdx&&c.alive){
+      // Winner glow — only in minefield (when they're actually ahead)
+      var winInMine=c.id===g.winIdx&&c.alive&&g.mineActive;
+      if(winInMine){
         var gp=0.6+0.4*Math.sin(Date.now()/280);
         ctx.shadowColor=c.color;ctx.shadowBlur=14*gp;
       }
@@ -4643,18 +4656,13 @@ function SpaceRaceMode(props){
         var obj=g.obstacles[oj];
         if(obj.consumed)continue;
         if(obj.homing&&obj.target!==i)continue; // homing mine targets specific ship only
+        if(!obj.homing&&i===g.winnerIdx)continue; // winner is immune to random obstacles
         var cdx=obj.x-sh.x;var cdy=obj.y-sh.y;
         var cdd=Math.sqrt(cdx*cdx+cdy*cdy);
         var hitR=obj.homing?obj.r+15:obj.r+10;
         if(cdd<hitR){
           sh.exploding=true;sh.explodeT=0;
           obj.consumed=true;
-          // If the winner is eliminated by a random obstacle, reassign winner
-          if(i===g.winnerIdx&&!obj.homing){
-            for(var rw=0;rw<g.ships.length;rw++){
-              if(rw!==i&&g.ships[rw].alive&&!g.ships[rw].exploding){g.winnerIdx=rw;break;}
-            }
-          }
           // Remove from pending elim schedule
           g.elimSchedule=g.elimSchedule.filter(function(ev){return ev.victim!==i;});
           playExplosion();
