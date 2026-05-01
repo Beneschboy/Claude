@@ -1,0 +1,690 @@
+{
+  "Ahornsirup + Beeren": {
+    "title": "GRANDESSA Ahornsirup",
+    "price": 3.99,
+    "price_str": "€ 3,99",
+    "unit_info": "1 L = € 1",
+    "url": "https://www.hofer.at/de/p.grandessa-ahornsirup.000000000000512104.html",
+    "rule": "ahornsirup"
+  },
+  "Backpulver (1 TL)": {
+    "title": "BACK FAMILY Backpulver",
+    "price": 0.48,
+    "price_str": "€ 0,48",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.back-family-backpulver.000000000000594564.html",
+    "rule": "backpulver"
+  },
+  "Basilikum, Oregano": {
+    "title": "ZURÜCK ZUM URSPRUNG BIO-Kräuter, Oregano",
+    "price": 1.69,
+    "price_str": "€ 1,69",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.zurueck-zum-ursprung-bio-kraeuter-oregano.000000000114213005.html",
+    "rule": "oregano"
+  },
+  "Bergkäse / Emmentaler (200g)": {
+    "title": "GUTES AUS DER REGION Steirischer Käsevielfalt, Bergkäse",
+    "price": 2.49,
+    "price_str": "€ 2,49",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.gutes-aus-der-region-steirischer-kaesevielfalt-bergkaese.000000000111958003.html",
+    "rule": "bergkäse"
+  },
+  "Bulgur (250g)": {
+    "title": "BIO BIO-Getreidemix, Bulgur",
+    "price": 1.89,
+    "price_str": "€ 1,89",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.bio-bio-getreidemix-bulgur.000000000111794001.html",
+    "rule": "bulgur"
+  },
+  "Burger-Buns (2 Stk)": {
+    "title": "BBQ Brioche Burger Buns Lauge",
+    "price": 1.99,
+    "price_str": "€ 1,99",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.bbq-brioche-burger-buns-lauge.000000000000473993.html",
+    "rule": "burger-buns"
+  },
+  "Butter (30g)": {
+    "title": "MILSANI Butter, laktosefrei",
+    "price": 1.99,
+    "price_str": "€ 1,99",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.milsani-butter-laktosefrei.000000000000107104.html",
+    "rule": "butter ("
+  },
+  "Butter (30g) + Emmentaler (50g)": {
+    "title": "MILSANI Butter, laktosefrei",
+    "price": 1.99,
+    "price_str": "€ 1,99",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.milsani-butter-laktosefrei.000000000000107104.html",
+    "rule": "butter ("
+  },
+  "Butter (40g)": {
+    "title": "MILSANI Butter, laktosefrei",
+    "price": 1.99,
+    "price_str": "€ 1,99",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.milsani-butter-laktosefrei.000000000000107104.html",
+    "rule": "butter ("
+  },
+  "Butter (40g) + Mehl (40g) + Milch (500ml)": {
+    "title": "MILSANI Butter, laktosefrei",
+    "price": 1.99,
+    "price_str": "€ 1,99",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.milsani-butter-laktosefrei.000000000000107104.html",
+    "rule": "butter ("
+  },
+  "Butter, Curry-Pulver": {
+    "title": "MILSANI Butter, laktosefrei",
+    "price": 1.99,
+    "price_str": "€ 1,99",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.milsani-butter-laktosefrei.000000000000107104.html",
+    "rule": "butter,"
+  },
+  "Butter, Muskat, Salz": {
+    "title": "MILSANI Butter, laktosefrei",
+    "price": 1.99,
+    "price_str": "€ 1,99",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.milsani-butter-laktosefrei.000000000000107104.html",
+    "rule": "butter,"
+  },
+  "Butter, Salz, Pfeffer": {
+    "title": "MILSANI Butter, laktosefrei",
+    "price": 1.99,
+    "price_str": "€ 1,99",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.milsani-butter-laktosefrei.000000000000107104.html",
+    "rule": "butter,"
+  },
+  "Butter, Staubzucker": {
+    "title": "MILSANI Butter, laktosefrei",
+    "price": 1.99,
+    "price_str": "€ 1,99",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.milsani-butter-laktosefrei.000000000000107104.html",
+    "rule": "butter,"
+  },
+  "Butter, Vanille, Salz": {
+    "title": "MILSANI Butter, laktosefrei",
+    "price": 1.99,
+    "price_str": "€ 1,99",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.milsani-butter-laktosefrei.000000000000107104.html",
+    "rule": "butter,"
+  },
+  "Butter, Zucker, Prise Salz": {
+    "title": "MILSANI Butter, laktosefrei",
+    "price": 1.99,
+    "price_str": "€ 1,99",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.milsani-butter-laktosefrei.000000000000107104.html",
+    "rule": "butter,"
+  },
+  "Cheddar-Scheiben (2 Stk)": {
+    "title": "BBQ Cheddar Burgerscheiben",
+    "price": 1.99,
+    "price_str": "€ 1,99",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.bbq-cheddar-burgerscheiben.000000000000582472.html",
+    "rule": "cheddar"
+  },
+  "Chia-Samen (1 EL)": {
+    "title": "BIO Chia Samen",
+    "price": 2.19,
+    "price_str": "€ 2,19",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.bio-chia-samen.000000000000563781.html",
+    "rule": "chia"
+  },
+  "Couscous (150g)": {
+    "title": "BIO BIO-Getreidemix, Couscous",
+    "price": 1.89,
+    "price_str": "€ 1,89",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.bio-bio-getreidemix-couscous.000000000111794003.html",
+    "rule": "couscous"
+  },
+  "Couscous (250g)": {
+    "title": "BIO BIO-Getreidemix, Couscous",
+    "price": 1.89,
+    "price_str": "€ 1,89",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.bio-bio-getreidemix-couscous.000000000111794003.html",
+    "rule": "couscous"
+  },
+  "Faschiertes (400g)": {
+    "title": "GENUSS 100% AUS ÖSTERREICH Faschiertes gemischt",
+    "price": 4.99,
+    "price_str": "€ 4,99",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.genuss--aus-oesterreich-faschiertes-gemischt.000000000000106958.html",
+    "rule": "faschiertes"
+  },
+  "Faschiertes Rind (400g)": {
+    "title": "GENUSS 100% AUS ÖSTERREICH Faschiertes gemischt",
+    "price": 4.99,
+    "price_str": "€ 4,99",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.genuss--aus-oesterreich-faschiertes-gemischt.000000000000106958.html",
+    "rule": "faschiertes rind"
+  },
+  "Faschiertes gemischt (400g)": {
+    "title": "GENUSS 100% AUS ÖSTERREICH Faschiertes gemischt",
+    "price": 4.99,
+    "price_str": "€ 4,99",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.genuss--aus-oesterreich-faschiertes-gemischt.000000000000106958.html",
+    "rule": "faschiertes"
+  },
+  "Faschiertes gemischt (500g)": {
+    "title": "GENUSS 100% AUS ÖSTERREICH Faschiertes gemischt",
+    "price": 4.99,
+    "price_str": "€ 4,99",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.genuss--aus-oesterreich-faschiertes-gemischt.000000000000106958.html",
+    "rule": "faschiertes"
+  },
+  "Garnelen TK geschält (200g)": {
+    "title": "ALMARE SEAFOOD Garnelen Sortiment, Party Garnelen",
+    "price": 2.15,
+    "price_str": "€ 2,15",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.almare-seafood-garnelen-sortiment-party-garnelen.000000000580827003.html",
+    "rule": "garnelen"
+  },
+  "Gouda-Scheiben (4 Stk)": {
+    "title": "MILSANI Gouda Scheiben, Geräuchert",
+    "price": 1.89,
+    "price_str": "€ 1,89",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.milsani-gouda-scheiben-geraeuchert.000000000483272002.html",
+    "rule": "gouda"
+  },
+  "Griechischer Joghurt (100g)": {
+    "title": "LYTTOS Joghurt griechischer Art, natur",
+    "price": 1.99,
+    "price_str": "€ 1,99",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.lyttos-joghurt-griechischer-art-natur.000000000000521541.html",
+    "rule": "joghurt"
+  },
+  "Grünes Pesto (190g)": {
+    "title": "GOURMET FINEST CUISINE Pesto, Paprika-Walnuss",
+    "price": 1.39,
+    "price_str": "€ 1,39",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.gourmet-finest-cuisine-pesto-paprika-walnuss.000000000193981007.html",
+    "rule": "pesto"
+  },
+  "Haferflocken (50g)": {
+    "title": "ZURÜCK ZUM URSPRUNG BIO-Haferflocken, Kleinblatt",
+    "price": 1.59,
+    "price_str": "€ 1,59",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.zurueck-zum-ursprung-bio-haferflocken-kleinblatt.000000000000107125.html",
+    "rule": "haferflocken"
+  },
+  "Haferflocken (60g)": {
+    "title": "ZURÜCK ZUM URSPRUNG BIO-Haferflocken, Kleinblatt",
+    "price": 1.59,
+    "price_str": "€ 1,59",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.zurueck-zum-ursprung-bio-haferflocken-kleinblatt.000000000000107125.html",
+    "rule": "haferflocken"
+  },
+  "Honig, Vanille": {
+    "title": "MILSANI Joghurtspaß, Vanille",
+    "price": 0.69,
+    "price_str": "€ 0,69",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.milsani-joghurtspass-vanille.000000000478189003.html",
+    "rule": "vanille"
+  },
+  "Hähnchenkeulen ohne Knochen (700g)": {
+    "title": "FAIR HOF Hühner-Oberkeulen",
+    "price": 4.49,
+    "price_str": "€ 4,49",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.fair-hof-huehner-oberkeulen.000000000000594221.html",
+    "rule": "hähnchenkeulen"
+  },
+  "Joghurt (100g)": {
+    "title": "LYTTOS Joghurt griechischer Art, natur",
+    "price": 1.99,
+    "price_str": "€ 1,99",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.lyttos-joghurt-griechischer-art-natur.000000000000521541.html",
+    "rule": "joghurt"
+  },
+  "Joghurt (150g) + Tahin (1 EL)": {
+    "title": "LYTTOS Joghurt griechischer Art, natur",
+    "price": 1.99,
+    "price_str": "€ 1,99",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.lyttos-joghurt-griechischer-art-natur.000000000000521541.html",
+    "rule": "joghurt"
+  },
+  "Joghurt (200g)": {
+    "title": "LYTTOS Joghurt griechischer Art, natur",
+    "price": 1.99,
+    "price_str": "€ 1,99",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.lyttos-joghurt-griechischer-art-natur.000000000000521541.html",
+    "rule": "joghurt"
+  },
+  "Joghurt, Limette, Honig": {
+    "title": "LYTTOS Joghurt griechischer Art, natur",
+    "price": 1.99,
+    "price_str": "€ 1,99",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.lyttos-joghurt-griechischer-art-natur.000000000000521541.html",
+    "rule": "joghurt"
+  },
+  "Kichererbsen (1 Dose)": {
+    "title": "NATURE'S GOLD Kichererbsen",
+    "price": 0.69,
+    "price_str": "€ 0,69",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.natures-gold-kichererbsen.000000000000108867.html",
+    "rule": "kichererbsen"
+  },
+  "Kichererbsen Dose (400g)": {
+    "title": "NATURE'S GOLD Kichererbsen",
+    "price": 0.69,
+    "price_str": "€ 0,69",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.natures-gold-kichererbsen.000000000000108867.html",
+    "rule": "kichererbsen"
+  },
+  "Kichererbsen aus Dose (400g)": {
+    "title": "NATURE'S GOLD Kichererbsen",
+    "price": 0.69,
+    "price_str": "€ 0,69",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.natures-gold-kichererbsen.000000000000108867.html",
+    "rule": "kichererbsen"
+  },
+  "Kidneybohnen + Mais (Dose)": {
+    "title": "TESOROS DEL SUR Tortilla Wraps Mexico, Mais",
+    "price": 1.49,
+    "price_str": "€ 1,49",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.tesoros-del-sur-tortilla-wraps-mexico-mais.000000000456136001.html",
+    "rule": "mais ("
+  },
+  "Kidneybohnen + Mais Dose": {
+    "title": "TESOROS DEL SUR Tortilla Wraps Mexico, Mais",
+    "price": 1.49,
+    "price_str": "€ 1,49",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.tesoros-del-sur-tortilla-wraps-mexico-mais.000000000456136001.html",
+    "rule": "mais "
+  },
+  "Mais (1 Dose)": {
+    "title": "TESOROS DEL SUR Tortilla Wraps Mexico, Mais",
+    "price": 1.49,
+    "price_str": "€ 1,49",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.tesoros-del-sur-tortilla-wraps-mexico-mais.000000000456136001.html",
+    "rule": "mais ("
+  },
+  "Mais, Krautsalat-Mix": {
+    "title": "TESOROS DEL SUR Tortilla Wraps Mexico, Mais",
+    "price": 1.49,
+    "price_str": "€ 1,49",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.tesoros-del-sur-tortilla-wraps-mexico-mais.000000000456136001.html",
+    "rule": "mais,"
+  },
+  "Mayo, Joghurt, Senf, Knoblauch": {
+    "title": "BBQ Kartoffelsalat, Mayonnaise",
+    "price": 2.59,
+    "price_str": "€ 2,59",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.bbq-kartoffelsalat-mayonnaise.000000000735457002.html",
+    "rule": "mayo"
+  },
+  "Mayo, Ketchup, Senf": {
+    "title": "BBQ Kartoffelsalat, Mayonnaise",
+    "price": 2.59,
+    "price_str": "€ 2,59",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.bbq-kartoffelsalat-mayonnaise.000000000735457002.html",
+    "rule": "mayo"
+  },
+  "Mini-Mozzarella (200g)": {
+    "title": "CUCINA NOBILE Mozzarella, Leicht",
+    "price": 0.89,
+    "price_str": "€ 0,89",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.cucina-nobile-mozzarella-leicht.000000000178450002.html",
+    "rule": "mozzarella"
+  },
+  "Mozzarella (125g)": {
+    "title": "CUCINA NOBILE Mozzarella, Leicht",
+    "price": 0.89,
+    "price_str": "€ 0,89",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.cucina-nobile-mozzarella-leicht.000000000178450002.html",
+    "rule": "mozzarella"
+  },
+  "Mozzarella + Parmesan (100g+50g)": {
+    "title": "CUCINA NOBILE Mozzarella, Leicht",
+    "price": 0.89,
+    "price_str": "€ 0,89",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.cucina-nobile-mozzarella-leicht.000000000178450002.html",
+    "rule": "mozzarella"
+  },
+  "Olivenöl (2 EL)": {
+    "title": "CUCINA NOBILE Olivenöl Extra Nativ",
+    "price": 6.99,
+    "price_str": "€ 6,99",
+    "unit_info": "1 L = € 9",
+    "url": "https://www.hofer.at/de/p.cucina-nobile-olivenoel-extra-nativ.000000000000200140.html",
+    "rule": "olivenöl"
+  },
+  "Olivenöl (3 EL)": {
+    "title": "CUCINA NOBILE Olivenöl Extra Nativ",
+    "price": 6.99,
+    "price_str": "€ 6,99",
+    "unit_info": "1 L = € 9",
+    "url": "https://www.hofer.at/de/p.cucina-nobile-olivenoel-extra-nativ.000000000000200140.html",
+    "rule": "olivenöl"
+  },
+  "Olivenöl (5 EL)": {
+    "title": "CUCINA NOBILE Olivenöl Extra Nativ",
+    "price": 6.99,
+    "price_str": "€ 6,99",
+    "unit_info": "1 L = € 9",
+    "url": "https://www.hofer.at/de/p.cucina-nobile-olivenoel-extra-nativ.000000000000200140.html",
+    "rule": "olivenöl"
+  },
+  "Olivenöl, Curry, Salz": {
+    "title": "CUCINA NOBILE Olivenöl Extra Nativ",
+    "price": 6.99,
+    "price_str": "€ 6,99",
+    "unit_info": "1 L = € 9",
+    "url": "https://www.hofer.at/de/p.cucina-nobile-olivenoel-extra-nativ.000000000000200140.html",
+    "rule": "olivenöl"
+  },
+  "Olivenöl, Knoblauch, Zitrone": {
+    "title": "CUCINA NOBILE Olivenöl Extra Nativ",
+    "price": 6.99,
+    "price_str": "€ 6,99",
+    "unit_info": "1 L = € 9",
+    "url": "https://www.hofer.at/de/p.cucina-nobile-olivenoel-extra-nativ.000000000000200140.html",
+    "rule": "olivenöl"
+  },
+  "Olivenöl, Lorbeer, Salz, Pfeffer": {
+    "title": "CUCINA NOBILE Olivenöl Extra Nativ",
+    "price": 6.99,
+    "price_str": "€ 6,99",
+    "unit_info": "1 L = € 9",
+    "url": "https://www.hofer.at/de/p.cucina-nobile-olivenoel-extra-nativ.000000000000200140.html",
+    "rule": "olivenöl"
+  },
+  "Olivenöl, Oregano, Zitrone": {
+    "title": "CUCINA NOBILE Olivenöl Extra Nativ",
+    "price": 6.99,
+    "price_str": "€ 6,99",
+    "unit_info": "1 L = € 9",
+    "url": "https://www.hofer.at/de/p.cucina-nobile-olivenoel-extra-nativ.000000000000200140.html",
+    "rule": "olivenöl"
+  },
+  "Olivenöl, Petersilie": {
+    "title": "CUCINA NOBILE Olivenöl Extra Nativ",
+    "price": 6.99,
+    "price_str": "€ 6,99",
+    "unit_info": "1 L = € 9",
+    "url": "https://www.hofer.at/de/p.cucina-nobile-olivenoel-extra-nativ.000000000000200140.html",
+    "rule": "olivenöl"
+  },
+  "Olivenöl, Petersilie, Dill": {
+    "title": "CUCINA NOBILE Olivenöl Extra Nativ",
+    "price": 6.99,
+    "price_str": "€ 6,99",
+    "unit_info": "1 L = € 9",
+    "url": "https://www.hofer.at/de/p.cucina-nobile-olivenoel-extra-nativ.000000000000200140.html",
+    "rule": "olivenöl"
+  },
+  "Olivenöl, Salz": {
+    "title": "CUCINA NOBILE Olivenöl Extra Nativ",
+    "price": 6.99,
+    "price_str": "€ 6,99",
+    "unit_info": "1 L = € 9",
+    "url": "https://www.hofer.at/de/p.cucina-nobile-olivenoel-extra-nativ.000000000000200140.html",
+    "rule": "olivenöl"
+  },
+  "Olivenöl, Weißwein (50ml)": {
+    "title": "CUCINA NOBILE Olivenöl Extra Nativ",
+    "price": 6.99,
+    "price_str": "€ 6,99",
+    "unit_info": "1 L = € 9",
+    "url": "https://www.hofer.at/de/p.cucina-nobile-olivenoel-extra-nativ.000000000000200140.html",
+    "rule": "olivenöl"
+  },
+  "Olivenöl, Zitrone": {
+    "title": "CUCINA NOBILE Olivenöl Extra Nativ",
+    "price": 6.99,
+    "price_str": "€ 6,99",
+    "unit_info": "1 L = € 9",
+    "url": "https://www.hofer.at/de/p.cucina-nobile-olivenoel-extra-nativ.000000000000200140.html",
+    "rule": "olivenöl"
+  },
+  "Olivenöl, Zitrone, Paprikapulver": {
+    "title": "CUCINA NOBILE Olivenöl Extra Nativ",
+    "price": 6.99,
+    "price_str": "€ 6,99",
+    "unit_info": "1 L = € 9",
+    "url": "https://www.hofer.at/de/p.cucina-nobile-olivenoel-extra-nativ.000000000000200140.html",
+    "rule": "olivenöl"
+  },
+  "Olivenöl, Zitrone, Petersilie": {
+    "title": "CUCINA NOBILE Olivenöl Extra Nativ",
+    "price": 6.99,
+    "price_str": "€ 6,99",
+    "unit_info": "1 L = € 9",
+    "url": "https://www.hofer.at/de/p.cucina-nobile-olivenoel-extra-nativ.000000000000200140.html",
+    "rule": "olivenöl"
+  },
+  "Olivenöl, Zitrone, Sumach": {
+    "title": "CUCINA NOBILE Olivenöl Extra Nativ",
+    "price": 6.99,
+    "price_str": "€ 6,99",
+    "unit_info": "1 L = € 9",
+    "url": "https://www.hofer.at/de/p.cucina-nobile-olivenoel-extra-nativ.000000000000200140.html",
+    "rule": "olivenöl"
+  },
+  "Passierte Tomaten (200g)": {
+    "title": "BIO BIO-Passierte Tomaten",
+    "price": 1.11,
+    "price_str": "€ 1,11",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.bio-bio-passierte-tomaten.000000000000617847.html",
+    "rule": "passierte tomaten"
+  },
+  "Passierte Tomaten (400g)": {
+    "title": "BIO BIO-Passierte Tomaten",
+    "price": 1.11,
+    "price_str": "€ 1,11",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.bio-bio-passierte-tomaten.000000000000617847.html",
+    "rule": "passierte tomaten"
+  },
+  "Passierte Tomaten (700g)": {
+    "title": "BIO BIO-Passierte Tomaten",
+    "price": 1.11,
+    "price_str": "€ 1,11",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.bio-bio-passierte-tomaten.000000000000617847.html",
+    "rule": "passierte tomaten"
+  },
+  "Pasta Penne (400g)": {
+    "title": "CUCINA NOBILE Penne",
+    "price": 1.35,
+    "price_str": "€ 1,35",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.cucina-nobile-penne.000000000000182172.html",
+    "rule": "penne"
+  },
+  "Penne (250g)": {
+    "title": "CUCINA NOBILE Penne",
+    "price": 1.35,
+    "price_str": "€ 1,35",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.cucina-nobile-penne.000000000000182172.html",
+    "rule": "penne"
+  },
+  "Putenbrust (500g)": {
+    "title": "FAIR HOF Putenbrustfilet",
+    "price": 16.99,
+    "price_str": "€ 16,99",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.fair-hof-putenbrustfilet.000000000000172861.html",
+    "rule": "putenbrust"
+  },
+  "Quinoa (150g)": {
+    "title": "BIO BIO-Quinoa Mix, Tricolore",
+    "price": 3.49,
+    "price_str": "€ 3,49",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.bio-bio-quinoa-mix-tricolore.000000000113630002.html",
+    "rule": "quinoa"
+  },
+  "Rinderhack (300g, 20% Fett)": {
+    "title": "GENUSS 100% AUS ÖSTERREICH Faschiertes gemischt",
+    "price": 4.99,
+    "price_str": "€ 4,99",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.genuss--aus-oesterreich-faschiertes-gemischt.000000000000106958.html",
+    "rule": "rinderhack"
+  },
+  "Rindsgulasch-Fleisch (700g)": {
+    "title": "GENUSS 100% AUS ÖSTERREICH Rindsgulasch",
+    "price": 18.98,
+    "price_str": "€ 18,98",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.genuss--aus-oesterreich-rindsgulasch.000000000000510738.html",
+    "rule": "rindsgulasch"
+  },
+  "Rotwein (100ml), Lorbeer, Oregano": {
+    "title": "ZURÜCK ZUM URSPRUNG BIO-Kräuter, Oregano",
+    "price": 1.69,
+    "price_str": "€ 1,69",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.zurueck-zum-ursprung-bio-kraeuter-oregano.000000000114213005.html",
+    "rule": "oregano"
+  },
+  "Salz, Pfeffer, Oregano": {
+    "title": "ZURÜCK ZUM URSPRUNG BIO-Kräuter, Oregano",
+    "price": 1.69,
+    "price_str": "€ 1,69",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.zurueck-zum-ursprung-bio-kraeuter-oregano.000000000114213005.html",
+    "rule": "oregano"
+  },
+  "Salz, Pfeffer, Zucker": {
+    "title": "DR. OETKER Vanillin-Zucker",
+    "price": 0.79,
+    "price_str": "€ 0,79",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.dr-oetker-vanillin-zucker.000000000000447809.html",
+    "rule": "zucker"
+  },
+  "Schlagobers (100ml)": {
+    "title": "MILSANI Schlagobers",
+    "price": 1.49,
+    "price_str": "€ 1,49",
+    "unit_info": "1 L = € 5",
+    "url": "https://www.hofer.at/de/p.milsani-schlagobers.000000000000107020.html",
+    "rule": "schlagobers"
+  },
+  "Schlagobers (200ml)": {
+    "title": "MILSANI Schlagobers",
+    "price": 1.49,
+    "price_str": "€ 1,49",
+    "unit_info": "1 L = € 5",
+    "url": "https://www.hofer.at/de/p.milsani-schlagobers.000000000000107020.html",
+    "rule": "schlagobers"
+  },
+  "Spaghetti (250g)": {
+    "title": "CUCINA NOBILE Spaghetti",
+    "price": 1.35,
+    "price_str": "€ 1,35",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.cucina-nobile-spaghetti.000000000000182124.html",
+    "rule": "spaghetti"
+  },
+  "Spaghetti (400g)": {
+    "title": "CUCINA NOBILE Spaghetti",
+    "price": 1.35,
+    "price_str": "€ 1,35",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.cucina-nobile-spaghetti.000000000000182124.html",
+    "rule": "spaghetti"
+  },
+  "Spaghetti (500g)": {
+    "title": "CUCINA NOBILE Spaghetti",
+    "price": 1.35,
+    "price_str": "€ 1,35",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.cucina-nobile-spaghetti.000000000000182124.html",
+    "rule": "spaghetti"
+  },
+  "Toastbrot (2 Scheiben)": {
+    "title": "ZURÜCK ZUM URSPRUNG Toast Vegan, Vollkorn",
+    "price": 1.79,
+    "price_str": "€ 1,79",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.zurueck-zum-ursprung-toast-vegan-vollkorn.000000000537331001.html",
+    "rule": "toastbrot"
+  },
+  "Toastbrot (4 Scheiben)": {
+    "title": "ZURÜCK ZUM URSPRUNG Toast Vegan, Vollkorn",
+    "price": 1.79,
+    "price_str": "€ 1,79",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.zurueck-zum-ursprung-toast-vegan-vollkorn.000000000537331001.html",
+    "rule": "toastbrot"
+  },
+  "Tortilla-Wraps (4 Stk)": {
+    "title": "TESOROS DEL SUR Tortilla Wraps Mexico, Chili",
+    "price": 1.49,
+    "price_str": "€ 1,49",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.tesoros-del-sur-tortilla-wraps-mexico-chili.000000000456136002.html",
+    "rule": "tortilla-wrap"
+  },
+  "Tzatziki-Set (Joghurt, Gurke)": {
+    "title": "LYTTOS Joghurt griechischer Art, natur",
+    "price": 1.99,
+    "price_str": "€ 1,99",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.lyttos-joghurt-griechischer-art-natur.000000000000521541.html",
+    "rule": "joghurt"
+  },
+  "Zucker (2 EL)": {
+    "title": "DR. OETKER Vanillin-Zucker",
+    "price": 0.79,
+    "price_str": "€ 0,79",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.dr-oetker-vanillin-zucker.000000000000447809.html",
+    "rule": "zucker"
+  },
+  "Zucker (2 EL) + Vanille": {
+    "title": "DR. OETKER Vanillin-Zucker",
+    "price": 0.79,
+    "price_str": "€ 0,79",
+    "unit_info": null,
+    "url": "https://www.hofer.at/de/p.dr-oetker-vanillin-zucker.000000000000447809.html",
+    "rule": "zucker"
+  }
+}

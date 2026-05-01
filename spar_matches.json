@@ -1,0 +1,538 @@
+{
+  "Ahornsirup + Beeren": {
+    "title": "SPAR Natur*pur Bio-Ahornsirup kräftig",
+    "price": 4.99,
+    "price_str": "€ 4,99",
+    "unit_info": "250 ML",
+    "url": "https://www.spar.at/produktwelt/p/1088793",
+    "rule": "ahornsirup"
+  },
+  "Backpulver (1 TL)": {
+    "title": "S-BUDGET Backpulver 6 x 15G",
+    "price": 0.29,
+    "price_str": "€ 0,29",
+    "unit_info": "90 G",
+    "url": "https://www.spar.at/produktwelt/p/1317459",
+    "rule": "backpulver"
+  },
+  "Bergkäse / Emmentaler (200g)": {
+    "title": "S-BUDGET Bergkäse aus Heumilch",
+    "price": 1.49,
+    "price_str": "€ 1,49",
+    "unit_info": "90 G",
+    "url": "https://www.spar.at/produktwelt/p/2020003217210",
+    "rule": "bergkäse"
+  },
+  "Bulgur (250g)": {
+    "title": "SPAR Natur*pur Bio-Bulgur",
+    "price": 1.49,
+    "price_str": "€ 1,49",
+    "unit_info": "500 G",
+    "url": "https://www.spar.at/produktwelt/p/2020003357169",
+    "rule": "bulgur"
+  },
+  "Butter (30g)": {
+    "title": "S-BUDGET Butter",
+    "price": 1.59,
+    "price_str": "€ 1,59",
+    "unit_info": "250 G",
+    "url": "https://www.spar.at/produktwelt/p/2020001016297",
+    "rule": "butter ("
+  },
+  "Butter (30g) + Emmentaler (50g)": {
+    "title": "S-BUDGET Butter",
+    "price": 1.59,
+    "price_str": "€ 1,59",
+    "unit_info": "250 G",
+    "url": "https://www.spar.at/produktwelt/p/2020001016297",
+    "rule": "butter ("
+  },
+  "Butter (40g)": {
+    "title": "S-BUDGET Butter",
+    "price": 1.59,
+    "price_str": "€ 1,59",
+    "unit_info": "250 G",
+    "url": "https://www.spar.at/produktwelt/p/2020001016297",
+    "rule": "butter ("
+  },
+  "Butter (40g) + Mehl (40g) + Milch (500ml)": {
+    "title": "S-BUDGET Butter",
+    "price": 1.59,
+    "price_str": "€ 1,59",
+    "unit_info": "250 G",
+    "url": "https://www.spar.at/produktwelt/p/2020001016297",
+    "rule": "butter ("
+  },
+  "Butter, Curry-Pulver": {
+    "title": "S-BUDGET Butter",
+    "price": 1.59,
+    "price_str": "€ 1,59",
+    "unit_info": "250 G",
+    "url": "https://www.spar.at/produktwelt/p/2020001016297",
+    "rule": "butter,"
+  },
+  "Butter, Muskat, Salz": {
+    "title": "S-BUDGET Butter",
+    "price": 1.59,
+    "price_str": "€ 1,59",
+    "unit_info": "250 G",
+    "url": "https://www.spar.at/produktwelt/p/2020001016297",
+    "rule": "butter,"
+  },
+  "Butter, Salz, Pfeffer": {
+    "title": "S-BUDGET Butter",
+    "price": 1.59,
+    "price_str": "€ 1,59",
+    "unit_info": "250 G",
+    "url": "https://www.spar.at/produktwelt/p/2020001016297",
+    "rule": "butter,"
+  },
+  "Butter, Staubzucker": {
+    "title": "S-BUDGET Butter",
+    "price": 1.59,
+    "price_str": "€ 1,59",
+    "unit_info": "250 G",
+    "url": "https://www.spar.at/produktwelt/p/2020001016297",
+    "rule": "butter,"
+  },
+  "Butter, Vanille, Salz": {
+    "title": "S-BUDGET Butter",
+    "price": 1.59,
+    "price_str": "€ 1,59",
+    "unit_info": "250 G",
+    "url": "https://www.spar.at/produktwelt/p/2020001016297",
+    "rule": "butter,"
+  },
+  "Butter, Zucker, Prise Salz": {
+    "title": "S-BUDGET Butter",
+    "price": 1.59,
+    "price_str": "€ 1,59",
+    "unit_info": "250 G",
+    "url": "https://www.spar.at/produktwelt/p/2020001016297",
+    "rule": "butter,"
+  },
+  "Couscous (150g)": {
+    "title": "S-BUDGET Couscous",
+    "price": 1.99,
+    "price_str": "€ 1,99",
+    "unit_info": "1 KG",
+    "url": "https://www.spar.at/produktwelt/p/2020005674127",
+    "rule": "couscous"
+  },
+  "Couscous (250g)": {
+    "title": "S-BUDGET Couscous",
+    "price": 1.99,
+    "price_str": "€ 1,99",
+    "unit_info": "1 KG",
+    "url": "https://www.spar.at/produktwelt/p/2020005674127",
+    "rule": "couscous"
+  },
+  "Faschiertes (400g)": {
+    "title": "SPAR Natur*pur Bio-Rinder-Faschiertes per Packung",
+    "price": 6.99,
+    "price_str": "€ 6,99",
+    "unit_info": "330 G",
+    "url": "https://www.spar.at/produktwelt/p/6761462",
+    "rule": "faschiertes"
+  },
+  "Faschiertes Rind (400g)": {
+    "title": "SPAR Natur*pur Bio-Rinder-Faschiertes per Packung",
+    "price": 6.99,
+    "price_str": "€ 6,99",
+    "unit_info": "330 G",
+    "url": "https://www.spar.at/produktwelt/p/6761462",
+    "rule": "faschiertes rind"
+  },
+  "Faschiertes gemischt (400g)": {
+    "title": "SPAR Natur*pur Bio-Rinder-Faschiertes per Packung",
+    "price": 6.99,
+    "price_str": "€ 6,99",
+    "unit_info": "330 G",
+    "url": "https://www.spar.at/produktwelt/p/6761462",
+    "rule": "faschiertes"
+  },
+  "Faschiertes gemischt (500g)": {
+    "title": "SPAR Natur*pur Bio-Rinder-Faschiertes per Packung",
+    "price": 6.99,
+    "price_str": "€ 6,99",
+    "unit_info": "330 G",
+    "url": "https://www.spar.at/produktwelt/p/6761462",
+    "rule": "faschiertes"
+  },
+  "Garnelen TK geschält (200g)": {
+    "title": "SPAR Eismeer-Garnelen essfertig, in Lake",
+    "price": 3.19,
+    "price_str": "€ 3,19",
+    "unit_info": "180 G",
+    "url": "https://www.spar.at/produktwelt/p/2020002815790",
+    "rule": "garnelen"
+  },
+  "Griechischer Joghurt (100g)": {
+    "title": "Schärdinger Greek Style Joghurt Mango & Maracuja",
+    "price": 0.62,
+    "price_str": "€ 0,62",
+    "unit_info": "175 G",
+    "url": "https://www.spar.at/produktwelt/p/2020004853400",
+    "rule": "joghurt"
+  },
+  "Grünes Pesto (190g)": {
+    "title": "SPAR Pesto ai Pomodori Secchi",
+    "price": 1.49,
+    "price_str": "€ 1,49",
+    "unit_info": "190 G",
+    "url": "https://www.spar.at/produktwelt/p/5583751",
+    "rule": "pesto"
+  },
+  "Joghurt (100g)": {
+    "title": "Schärdinger Greek Style Joghurt Mango & Maracuja",
+    "price": 0.62,
+    "price_str": "€ 0,62",
+    "unit_info": "175 G",
+    "url": "https://www.spar.at/produktwelt/p/2020004853400",
+    "rule": "joghurt"
+  },
+  "Joghurt (150g) + Tahin (1 EL)": {
+    "title": "Schärdinger Greek Style Joghurt Mango & Maracuja",
+    "price": 0.62,
+    "price_str": "€ 0,62",
+    "unit_info": "175 G",
+    "url": "https://www.spar.at/produktwelt/p/2020004853400",
+    "rule": "joghurt"
+  },
+  "Joghurt (200g)": {
+    "title": "Schärdinger Greek Style Joghurt Mango & Maracuja",
+    "price": 0.62,
+    "price_str": "€ 0,62",
+    "unit_info": "175 G",
+    "url": "https://www.spar.at/produktwelt/p/2020004853400",
+    "rule": "joghurt"
+  },
+  "Joghurt, Limette, Honig": {
+    "title": "Schärdinger Greek Style Joghurt Mango & Maracuja",
+    "price": 0.62,
+    "price_str": "€ 0,62",
+    "unit_info": "175 G",
+    "url": "https://www.spar.at/produktwelt/p/2020004853400",
+    "rule": "joghurt"
+  },
+  "Kichererbsen (1 Dose)": {
+    "title": "S-BUDGET Kichererbsen",
+    "price": 1.59,
+    "price_str": "€ 1,59",
+    "unit_info": "500 G",
+    "url": "https://www.spar.at/produktwelt/p/2020005674134",
+    "rule": "kichererbsen"
+  },
+  "Kichererbsen Dose (400g)": {
+    "title": "S-BUDGET Kichererbsen",
+    "price": 1.59,
+    "price_str": "€ 1,59",
+    "unit_info": "500 G",
+    "url": "https://www.spar.at/produktwelt/p/2020005674134",
+    "rule": "kichererbsen"
+  },
+  "Kichererbsen aus Dose (400g)": {
+    "title": "S-BUDGET Kichererbsen",
+    "price": 1.59,
+    "price_str": "€ 1,59",
+    "unit_info": "500 G",
+    "url": "https://www.spar.at/produktwelt/p/2020005674134",
+    "rule": "kichererbsen"
+  },
+  "Mayo, Joghurt, Senf, Knoblauch": {
+    "title": "SPAR Mayonnaise 50% Fett",
+    "price": 1.69,
+    "price_str": "€ 1,69",
+    "unit_info": "250 G",
+    "url": "https://www.spar.at/produktwelt/p/3972380",
+    "rule": "mayo"
+  },
+  "Mayo, Ketchup, Senf": {
+    "title": "SPAR Mayonnaise 50% Fett",
+    "price": 1.69,
+    "price_str": "€ 1,69",
+    "unit_info": "250 G",
+    "url": "https://www.spar.at/produktwelt/p/3972380",
+    "rule": "mayo"
+  },
+  "Mini-Mozzarella (200g)": {
+    "title": "S-BUDGET Mozzarella",
+    "price": 0.79,
+    "price_str": "€ 0,79",
+    "unit_info": "125 G",
+    "url": "https://www.spar.at/produktwelt/p/2686653",
+    "rule": "mozzarella"
+  },
+  "Mozzarella (125g)": {
+    "title": "S-BUDGET Mozzarella",
+    "price": 0.79,
+    "price_str": "€ 0,79",
+    "unit_info": "125 G",
+    "url": "https://www.spar.at/produktwelt/p/2686653",
+    "rule": "mozzarella"
+  },
+  "Mozzarella + Parmesan (100g+50g)": {
+    "title": "S-BUDGET Mozzarella",
+    "price": 0.79,
+    "price_str": "€ 0,79",
+    "unit_info": "125 G",
+    "url": "https://www.spar.at/produktwelt/p/2686653",
+    "rule": "mozzarella"
+  },
+  "Olivenöl (2 EL)": {
+    "title": "DESPAR PREMIUM Natives Olivenöl extra natürl. weißer Trüffel-Aroma",
+    "price": 3.99,
+    "price_str": "€ 3,99",
+    "unit_info": "90 ML",
+    "url": "https://www.spar.at/produktwelt/p/2020005562370",
+    "rule": "olivenöl"
+  },
+  "Olivenöl (3 EL)": {
+    "title": "DESPAR PREMIUM Natives Olivenöl extra natürl. weißer Trüffel-Aroma",
+    "price": 3.99,
+    "price_str": "€ 3,99",
+    "unit_info": "90 ML",
+    "url": "https://www.spar.at/produktwelt/p/2020005562370",
+    "rule": "olivenöl"
+  },
+  "Olivenöl (5 EL)": {
+    "title": "DESPAR PREMIUM Natives Olivenöl extra natürl. weißer Trüffel-Aroma",
+    "price": 3.99,
+    "price_str": "€ 3,99",
+    "unit_info": "90 ML",
+    "url": "https://www.spar.at/produktwelt/p/2020005562370",
+    "rule": "olivenöl"
+  },
+  "Olivenöl, Curry, Salz": {
+    "title": "DESPAR PREMIUM Natives Olivenöl extra natürl. weißer Trüffel-Aroma",
+    "price": 3.99,
+    "price_str": "€ 3,99",
+    "unit_info": "90 ML",
+    "url": "https://www.spar.at/produktwelt/p/2020005562370",
+    "rule": "olivenöl"
+  },
+  "Olivenöl, Knoblauch, Zitrone": {
+    "title": "DESPAR PREMIUM Natives Olivenöl extra natürl. weißer Trüffel-Aroma",
+    "price": 3.99,
+    "price_str": "€ 3,99",
+    "unit_info": "90 ML",
+    "url": "https://www.spar.at/produktwelt/p/2020005562370",
+    "rule": "olivenöl"
+  },
+  "Olivenöl, Lorbeer, Salz, Pfeffer": {
+    "title": "DESPAR PREMIUM Natives Olivenöl extra natürl. weißer Trüffel-Aroma",
+    "price": 3.99,
+    "price_str": "€ 3,99",
+    "unit_info": "90 ML",
+    "url": "https://www.spar.at/produktwelt/p/2020005562370",
+    "rule": "olivenöl"
+  },
+  "Olivenöl, Oregano, Zitrone": {
+    "title": "DESPAR PREMIUM Natives Olivenöl extra natürl. weißer Trüffel-Aroma",
+    "price": 3.99,
+    "price_str": "€ 3,99",
+    "unit_info": "90 ML",
+    "url": "https://www.spar.at/produktwelt/p/2020005562370",
+    "rule": "olivenöl"
+  },
+  "Olivenöl, Petersilie": {
+    "title": "DESPAR PREMIUM Natives Olivenöl extra natürl. weißer Trüffel-Aroma",
+    "price": 3.99,
+    "price_str": "€ 3,99",
+    "unit_info": "90 ML",
+    "url": "https://www.spar.at/produktwelt/p/2020005562370",
+    "rule": "olivenöl"
+  },
+  "Olivenöl, Petersilie, Dill": {
+    "title": "DESPAR PREMIUM Natives Olivenöl extra natürl. weißer Trüffel-Aroma",
+    "price": 3.99,
+    "price_str": "€ 3,99",
+    "unit_info": "90 ML",
+    "url": "https://www.spar.at/produktwelt/p/2020005562370",
+    "rule": "olivenöl"
+  },
+  "Olivenöl, Salz": {
+    "title": "DESPAR PREMIUM Natives Olivenöl extra natürl. weißer Trüffel-Aroma",
+    "price": 3.99,
+    "price_str": "€ 3,99",
+    "unit_info": "90 ML",
+    "url": "https://www.spar.at/produktwelt/p/2020005562370",
+    "rule": "olivenöl"
+  },
+  "Olivenöl, Weißwein (50ml)": {
+    "title": "DESPAR PREMIUM Natives Olivenöl extra natürl. weißer Trüffel-Aroma",
+    "price": 3.99,
+    "price_str": "€ 3,99",
+    "unit_info": "90 ML",
+    "url": "https://www.spar.at/produktwelt/p/2020005562370",
+    "rule": "olivenöl"
+  },
+  "Olivenöl, Zitrone": {
+    "title": "DESPAR PREMIUM Natives Olivenöl extra natürl. weißer Trüffel-Aroma",
+    "price": 3.99,
+    "price_str": "€ 3,99",
+    "unit_info": "90 ML",
+    "url": "https://www.spar.at/produktwelt/p/2020005562370",
+    "rule": "olivenöl"
+  },
+  "Olivenöl, Zitrone, Paprikapulver": {
+    "title": "DESPAR PREMIUM Natives Olivenöl extra natürl. weißer Trüffel-Aroma",
+    "price": 3.99,
+    "price_str": "€ 3,99",
+    "unit_info": "90 ML",
+    "url": "https://www.spar.at/produktwelt/p/2020005562370",
+    "rule": "olivenöl"
+  },
+  "Olivenöl, Zitrone, Petersilie": {
+    "title": "DESPAR PREMIUM Natives Olivenöl extra natürl. weißer Trüffel-Aroma",
+    "price": 3.99,
+    "price_str": "€ 3,99",
+    "unit_info": "90 ML",
+    "url": "https://www.spar.at/produktwelt/p/2020005562370",
+    "rule": "olivenöl"
+  },
+  "Olivenöl, Zitrone, Sumach": {
+    "title": "DESPAR PREMIUM Natives Olivenöl extra natürl. weißer Trüffel-Aroma",
+    "price": 3.99,
+    "price_str": "€ 3,99",
+    "unit_info": "90 ML",
+    "url": "https://www.spar.at/produktwelt/p/2020005562370",
+    "rule": "olivenöl"
+  },
+  "Pasta Penne (400g)": {
+    "title": "SPAR Natur*pur Bio-Pasta Mini-Penne",
+    "price": 0.99,
+    "price_str": "€ 0,99",
+    "unit_info": "500 G",
+    "url": "https://www.spar.at/produktwelt/p/2020003054426",
+    "rule": "penne"
+  },
+  "Penne (250g)": {
+    "title": "SPAR Natur*pur Bio-Pasta Mini-Penne",
+    "price": 0.99,
+    "price_str": "€ 0,99",
+    "unit_info": "500 G",
+    "url": "https://www.spar.at/produktwelt/p/2020003054426",
+    "rule": "penne"
+  },
+  "Quinoa (150g)": {
+    "title": "SPAR Natur*pur Bio-Quinoa tricolore 500G",
+    "price": 3.99,
+    "price_str": "€ 3,99",
+    "unit_info": "500 G",
+    "url": "https://www.spar.at/produktwelt/p/2020003258459",
+    "rule": "quinoa"
+  },
+  "Rinderhack (300g, 20% Fett)": {
+    "title": "SPAR Natur*pur Bio-Rinder-Faschiertes per Packung",
+    "price": 6.99,
+    "price_str": "€ 6,99",
+    "unit_info": "330 G",
+    "url": "https://www.spar.at/produktwelt/p/6761462",
+    "rule": "rinderhack"
+  },
+  "Rindsgulasch-Fleisch (700g)": {
+    "title": "SPAR Natur*pur Bio-Rindsgulasch",
+    "price": 23.99,
+    "price_str": "€ 23,99",
+    "unit_info": "1 KG",
+    "url": "https://www.spar.at/produktwelt/p/3484821",
+    "rule": "rindsgulasch"
+  },
+  "Salz, Pfeffer, Zucker": {
+    "title": "Wiener Zucker Puderzucker Extrafein",
+    "price": 1.29,
+    "price_str": "€ 1,29",
+    "unit_info": "400 G",
+    "url": "https://www.spar.at/produktwelt/p/7382123",
+    "rule": "zucker"
+  },
+  "Schlagobers (100ml)": {
+    "title": "Schärdinger Formil H-Schlagobers",
+    "price": 0.99,
+    "price_str": "€ 0,99",
+    "unit_info": "200 ML",
+    "url": "https://www.spar.at/produktwelt/p/4286318",
+    "rule": "schlagobers"
+  },
+  "Schlagobers (200ml)": {
+    "title": "Schärdinger Formil H-Schlagobers",
+    "price": 0.99,
+    "price_str": "€ 0,99",
+    "unit_info": "200 ML",
+    "url": "https://www.spar.at/produktwelt/p/4286318",
+    "rule": "schlagobers"
+  },
+  "Spaghetti (250g)": {
+    "title": "SPAR Natur*pur Bio-Pasta Spaghetti",
+    "price": 0.99,
+    "price_str": "€ 0,99",
+    "unit_info": "500 G",
+    "url": "https://www.spar.at/produktwelt/p/4330851",
+    "rule": "spaghetti"
+  },
+  "Spaghetti (400g)": {
+    "title": "SPAR Natur*pur Bio-Pasta Spaghetti",
+    "price": 0.99,
+    "price_str": "€ 0,99",
+    "unit_info": "500 G",
+    "url": "https://www.spar.at/produktwelt/p/4330851",
+    "rule": "spaghetti"
+  },
+  "Spaghetti (500g)": {
+    "title": "SPAR Natur*pur Bio-Pasta Spaghetti",
+    "price": 0.99,
+    "price_str": "€ 0,99",
+    "unit_info": "500 G",
+    "url": "https://www.spar.at/produktwelt/p/4330851",
+    "rule": "spaghetti"
+  },
+  "Toastbrot (2 Scheiben)": {
+    "title": "SPAR Vital Toast High Protein",
+    "price": 2.29,
+    "price_str": "€ 2,29",
+    "unit_info": "400 G",
+    "url": "https://www.spar.at/produktwelt/p/2020006099073",
+    "rule": "toastbrot"
+  },
+  "Toastbrot (4 Scheiben)": {
+    "title": "SPAR Vital Toast High Protein",
+    "price": 2.29,
+    "price_str": "€ 2,29",
+    "unit_info": "400 G",
+    "url": "https://www.spar.at/produktwelt/p/2020006099073",
+    "rule": "toastbrot"
+  },
+  "Tortilla-Wraps (4 Stk)": {
+    "title": "Schär Tortilla-Wraps",
+    "price": 3.49,
+    "price_str": "€ 3,49",
+    "unit_info": "160 G",
+    "url": "https://www.spar.at/produktwelt/p/2020000911937",
+    "rule": "tortilla-wrap"
+  },
+  "Tzatziki-Set (Joghurt, Gurke)": {
+    "title": "Schärdinger Greek Style Joghurt Mango & Maracuja",
+    "price": 0.62,
+    "price_str": "€ 0,62",
+    "unit_info": "175 G",
+    "url": "https://www.spar.at/produktwelt/p/2020004853400",
+    "rule": "joghurt"
+  },
+  "Zucker (2 EL)": {
+    "title": "Wiener Zucker Puderzucker Extrafein",
+    "price": 1.29,
+    "price_str": "€ 1,29",
+    "unit_info": "400 G",
+    "url": "https://www.spar.at/produktwelt/p/7382123",
+    "rule": "zucker"
+  },
+  "Zucker (2 EL) + Vanille": {
+    "title": "Wiener Zucker Puderzucker Extrafein",
+    "price": 1.29,
+    "price_str": "€ 1,29",
+    "unit_info": "400 G",
+    "url": "https://www.spar.at/produktwelt/p/7382123",
+    "rule": "zucker"
+  }
+}
