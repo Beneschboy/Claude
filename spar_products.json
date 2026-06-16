@@ -1,0 +1,542 @@
+{
+  "kichererbsen": {
+    "title": "S-BUDGET Kichererbsen",
+    "brand": "S-BUDGET",
+    "unit_info": "500 G",
+    "price": 1.59,
+    "url": "https://www.spar.at/produktwelt/p/2020005674134",
+    "product_id": "2020005674134",
+    "search_term": "Kichererbsen"
+  },
+  "schinken": {
+    "title": "Hofmann Zweigelt Schinken",
+    "brand": "Hofmann",
+    "unit_info": "1 KG",
+    "price": 1.99,
+    "url": "https://www.spar.at/produktwelt/p/2020001706402",
+    "product_id": "2020001706402",
+    "search_term": "Schinken"
+  },
+  "schlagobers": {
+    "title": "Schärdinger Formil H-Schlagobers",
+    "brand": "Schärdinger Formil",
+    "unit_info": "200 ML",
+    "price": 0.99,
+    "url": "https://www.spar.at/produktwelt/p/4286318",
+    "product_id": "4286318",
+    "search_term": "Schlagobers"
+  },
+  "mozzarella": {
+    "title": "S-BUDGET Mozzarella",
+    "brand": "S-BUDGET",
+    "unit_info": "125 G",
+    "price": 0.79,
+    "url": "https://www.spar.at/produktwelt/p/2686653",
+    "product_id": "2686653",
+    "search_term": "Mozzarella"
+  },
+  "bergkäse": {
+    "title": "S-BUDGET Bergkäse aus Heumilch",
+    "brand": "S-BUDGET",
+    "unit_info": "90 G",
+    "price": 1.49,
+    "url": "https://www.spar.at/produktwelt/p/2020003217210",
+    "product_id": "2020003217210",
+    "search_term": "Bergkäse"
+  },
+  "zucker": {
+    "title": "Wiener Zucker Puderzucker Extrafein",
+    "brand": "Wiener Zucker",
+    "unit_info": "400 G",
+    "price": 1.29,
+    "url": "https://www.spar.at/produktwelt/p/7382123",
+    "product_id": "7382123",
+    "search_term": "Zucker"
+  },
+  "backpulver": {
+    "title": "S-BUDGET Backpulver 6 x 15G",
+    "brand": "S-BUDGET",
+    "unit_info": "90 G",
+    "price": 0.29,
+    "url": "https://www.spar.at/produktwelt/p/1317459",
+    "product_id": "1317459",
+    "search_term": "Backpulver"
+  },
+  "sardellen": {
+    "title": "S-BUDGET Sardellen Paste mit MSC-Sardellen",
+    "brand": "S-BUDGET",
+    "unit_info": "60 G",
+    "price": 1.99,
+    "url": "https://www.spar.at/produktwelt/p/2020003965777",
+    "product_id": "2020003965777",
+    "search_term": "Sardellen"
+  },
+  "pinienkerne": {
+    "title": "SPAR Vital Bio-Pinienkerne",
+    "brand": "SPAR Vital",
+    "unit_info": "100 G",
+    "price": 2.99,
+    "url": "https://www.spar.at/produktwelt/p/2020002187323",
+    "product_id": "2020002187323",
+    "search_term": "Pinienkerne"
+  },
+  "mandeln": {
+    "title": "SPAR Mandeln blanchiert & gehobelt",
+    "brand": "SPAR",
+    "unit_info": "100 G",
+    "price": 1.49,
+    "url": "https://www.spar.at/produktwelt/p/2020002740610",
+    "product_id": "2020002740610",
+    "search_term": "Mandeln"
+  },
+  "rosinen": {
+    "title": "SPAR Rosinen geölt, ungeschwefelt",
+    "brand": "SPAR",
+    "unit_info": "500 G",
+    "price": 2.49,
+    "url": "https://www.spar.at/produktwelt/p/172448",
+    "product_id": "172448",
+    "search_term": "Rosinen"
+  },
+  "majoran": {
+    "title": "SPAR Majoran gerebelt 10g",
+    "brand": "SPAR",
+    "unit_info": "",
+    "price": 0.99,
+    "url": "https://www.spar.at/produktwelt/p/2020004570024",
+    "product_id": "2020004570024",
+    "search_term": "Majoran"
+  },
+  "kümmel": {
+    "title": "SPAR Kümmel ganz 50g",
+    "brand": "SPAR",
+    "unit_info": "",
+    "price": 0.99,
+    "url": "https://www.spar.at/produktwelt/p/2020004570017",
+    "product_id": "2020004570017",
+    "search_term": "Kümmel"
+  },
+  "muskat": {
+    "title": "Kiano Muskat ganz",
+    "brand": "Kiano",
+    "unit_info": "",
+    "price": 2.99,
+    "url": "https://www.spar.at/produktwelt/p/2020000481829",
+    "product_id": "2020000481829",
+    "search_term": "Muskat"
+  },
+  "rindsuppe": {
+    "title": "Knorr Meister Kessel Kräftige Rindsuppe 2 Portionen",
+    "brand": "Knorr Meister Kessel",
+    "unit_info": "500 G",
+    "price": 4.49,
+    "url": "https://www.spar.at/produktwelt/p/3946398",
+    "product_id": "3946398",
+    "search_term": "Rindsuppe"
+  },
+  "spaghetti": {
+    "title": "SPAR Natur*pur Bio-Pasta Spaghetti",
+    "brand": "SPAR Natur*pur",
+    "unit_info": "500 G",
+    "price": 0.99,
+    "url": "https://www.spar.at/produktwelt/p/4330851",
+    "product_id": "4330851",
+    "search_term": "Spaghetti"
+  },
+  "penne": {
+    "title": "SPAR Natur*pur Bio-Pasta Mini-Penne",
+    "brand": "SPAR Natur*pur",
+    "unit_info": "500 G",
+    "price": 0.99,
+    "url": "https://www.spar.at/produktwelt/p/2020003054426",
+    "product_id": "2020003054426",
+    "search_term": "Penne"
+  },
+  "linguine": {
+    "title": "SPAR Natur*pur Bio-Vollkorn-Pasta Linguine",
+    "brand": "SPAR Natur*pur",
+    "unit_info": "500 G",
+    "price": 0.99,
+    "url": "https://www.spar.at/produktwelt/p/6117269",
+    "product_id": "6117269",
+    "search_term": "Linguine"
+  },
+  "fusilli": {
+    "title": "Barilla Classic Fusilli N°98",
+    "brand": "Barilla Classic",
+    "unit_info": "500 G",
+    "price": 0.99,
+    "url": "https://www.spar.at/produktwelt/p/7377471",
+    "product_id": "7377471",
+    "search_term": "Fusilli"
+  },
+  "lasagne": {
+    "title": "DESPAR Lasagne Teigblätter gewellt",
+    "brand": "DESPAR",
+    "unit_info": "250 G",
+    "price": 0.84,
+    "url": "https://www.spar.at/produktwelt/p/7422966",
+    "product_id": "7422966",
+    "search_term": "Lasagneblätter"
+  },
+  "tortilla": {
+    "title": "Schär Tortilla-Wraps",
+    "brand": "Schär",
+    "unit_info": "160 G",
+    "price": 3.49,
+    "url": "https://www.spar.at/produktwelt/p/2020000911937",
+    "product_id": "2020000911937",
+    "search_term": "Tortilla Wraps"
+  },
+  "toast": {
+    "title": "SPAR Vital Toast High Protein",
+    "brand": "SPAR Vital",
+    "unit_info": "400 G",
+    "price": 2.29,
+    "url": "https://www.spar.at/produktwelt/p/2020006099073",
+    "product_id": "2020006099073",
+    "search_term": "Toastbrot"
+  },
+  "baguette": {
+    "title": "Schnitzer Bio-Baguette glutenfrei, laktosefrei",
+    "brand": "Schnitzer",
+    "unit_info": "180 G",
+    "price": 2.79,
+    "url": "https://www.spar.at/produktwelt/p/2020005469297",
+    "product_id": "2020005469297",
+    "search_term": "Baguette"
+  },
+  "schwarzbrot": {
+    "title": "Fürst Schwarzbrot",
+    "brand": "Fürst",
+    "unit_info": "500 G",
+    "price": 2.15,
+    "url": "https://www.spar.at/produktwelt/p/6382346",
+    "product_id": "6382346",
+    "search_term": "Schwarzbrot"
+  },
+  "reis": {
+    "title": "SPAR PREMIUM ASIA Sushi-Reis",
+    "brand": "SPAR PREMIUM ASIA",
+    "unit_info": "250 G",
+    "price": 1.49,
+    "url": "https://www.spar.at/produktwelt/p/1590968",
+    "product_id": "1590968",
+    "search_term": "Reis"
+  },
+  "bulgur": {
+    "title": "SPAR Natur*pur Bio-Bulgur",
+    "brand": "SPAR Natur*pur",
+    "unit_info": "500 G",
+    "price": 1.49,
+    "url": "https://www.spar.at/produktwelt/p/2020003357169",
+    "product_id": "2020003357169",
+    "search_term": "Bulgur"
+  },
+  "couscous": {
+    "title": "S-BUDGET Couscous",
+    "brand": "S-BUDGET",
+    "unit_info": "1 KG",
+    "price": 1.99,
+    "url": "https://www.spar.at/produktwelt/p/2020005674127",
+    "product_id": "2020005674127",
+    "search_term": "Couscous"
+  },
+  "quinoa": {
+    "title": "SPAR Natur*pur Bio-Quinoa tricolore 500G",
+    "brand": "SPAR Natur*pur",
+    "unit_info": "500 G",
+    "price": 3.99,
+    "url": "https://www.spar.at/produktwelt/p/2020003258459",
+    "product_id": "2020003258459",
+    "search_term": "Quinoa"
+  },
+  "tomaten": {
+    "title": "SPAR Natur*pur Bio-Tomaten San Marzano",
+    "brand": "SPAR Natur*pur",
+    "unit_info": "300 G",
+    "price": 2.49,
+    "url": "https://www.spar.at/produktwelt/p/2020004217363",
+    "product_id": "2020004217363",
+    "search_term": "Tomaten Dose"
+  },
+  "kidneybohnen": {
+    "title": "S-BUDGET Kidneybohnen",
+    "brand": "S-BUDGET",
+    "unit_info": "500 G",
+    "price": 1.49,
+    "url": "https://www.spar.at/produktwelt/p/2020005673922",
+    "product_id": "2020005673922",
+    "search_term": "Kidneybohnen"
+  },
+  "linsen": {
+    "title": "S-BUDGET Grüne Linsen",
+    "brand": "S-BUDGET",
+    "unit_info": "500 G",
+    "price": 1.59,
+    "url": "https://www.spar.at/produktwelt/p/2020001737000",
+    "product_id": "2020001737000",
+    "search_term": "Linsen"
+  },
+  "rindsgulasch": {
+    "title": "SPAR Natur*pur Bio-Rindsgulasch",
+    "brand": "SPAR Natur*pur",
+    "unit_info": "1 KG",
+    "price": 23.99,
+    "url": "https://www.spar.at/produktwelt/p/3484821",
+    "product_id": "3484821",
+    "search_term": "Rindsgulasch"
+  },
+  "faschiertes": {
+    "title": "SPAR Natur*pur Bio-Rinder-Faschiertes per Packung",
+    "brand": "SPAR Natur*pur",
+    "unit_info": "330 G",
+    "price": 6.99,
+    "url": "https://www.spar.at/produktwelt/p/6761462",
+    "product_id": "6761462",
+    "search_term": "Faschiertes"
+  },
+  "speck": {
+    "title": "SPAR Natur*pur Bio-Karree-Speck geschnitten",
+    "brand": "SPAR Natur*pur",
+    "unit_info": "80 G",
+    "price": 3.99,
+    "url": "https://www.spar.at/produktwelt/p/7220982",
+    "product_id": "7220982",
+    "search_term": "Speck"
+  },
+  "zander": {
+    "title": "Iglo Käpt'n Iglo Zander Naturfilets 3-4 Stück",
+    "brand": "Iglo Käpt'n Iglo",
+    "unit_info": "270 G",
+    "price": 16.99,
+    "url": "https://www.spar.at/produktwelt/p/1129755",
+    "product_id": "1129755",
+    "search_term": "Zander Filet"
+  },
+  "garnelen": {
+    "title": "SPAR Eismeer-Garnelen essfertig, in Lake",
+    "brand": "SPAR",
+    "unit_info": "180 G",
+    "price": 3.19,
+    "url": "https://www.spar.at/produktwelt/p/2020002815790",
+    "product_id": "2020002815790",
+    "search_term": "Garnelen"
+  },
+  "tofu": {
+    "title": "SPAR Veggie veganer Bio-Tofu geräuchert",
+    "brand": "SPAR Veggie",
+    "unit_info": "250 G",
+    "price": 1.99,
+    "url": "https://www.spar.at/produktwelt/p/1090208",
+    "product_id": "1090208",
+    "search_term": "Tofu"
+  },
+  "eier": {
+    "title": "SPAR Feine Küche Jausen-Eier Gekocht & gefärbte mit 1g Salz beigelegt",
+    "brand": "SPAR Feine Küche",
+    "unit_info": "4 STK",
+    "price": 1.49,
+    "url": "https://www.spar.at/produktwelt/p/8185624",
+    "product_id": "8185624",
+    "search_term": "Eier"
+  },
+  "vollmilch": {
+    "title": "Schärdinger Formil H-Vollmilch 3,5% Fett",
+    "brand": "Schärdinger Formil",
+    "unit_info": "0,5 L",
+    "price": 0.9,
+    "url": "https://www.spar.at/produktwelt/p/2751139",
+    "product_id": "2751139",
+    "search_term": "Vollmilch"
+  },
+  "topfen": {
+    "title": "S-BUDGET Mager-Topfen",
+    "brand": "S-BUDGET",
+    "unit_info": "250 G",
+    "price": 0.99,
+    "url": "https://www.spar.at/produktwelt/p/2020003270147",
+    "product_id": "2020003270147",
+    "search_term": "Topfen"
+  },
+  "butter": {
+    "title": "S-BUDGET Butter",
+    "brand": "S-BUDGET",
+    "unit_info": "250 G",
+    "price": 1.59,
+    "url": "https://www.spar.at/produktwelt/p/2020001016297",
+    "product_id": "2020001016297",
+    "search_term": "Butter"
+  },
+  "parmigiano": {
+    "title": "SPAR Natur*pur Bio-Parmigiano Reggiano DOP gerieben",
+    "brand": "SPAR Natur*pur",
+    "unit_info": "50 G",
+    "price": 2.09,
+    "url": "https://www.spar.at/produktwelt/p/2020004784735",
+    "product_id": "2020004784735",
+    "search_term": "Parmigiano Reggiano"
+  },
+  "emmentaler": {
+    "title": "S-BUDGET Emmentaler aus Heumilch",
+    "brand": "S-BUDGET",
+    "unit_info": "90 G",
+    "price": 1.49,
+    "url": "https://www.spar.at/produktwelt/p/2020003217166",
+    "product_id": "2020003217166",
+    "search_term": "Emmentaler"
+  },
+  "olivenöl": {
+    "title": "DESPAR PREMIUM Natives Olivenöl extra natürl. weißer Trüffel-Aroma",
+    "brand": "DESPAR PREMIUM",
+    "unit_info": "90 ML",
+    "price": 3.99,
+    "url": "https://www.spar.at/produktwelt/p/2020005562370",
+    "product_id": "2020005562370",
+    "search_term": "Olivenöl"
+  },
+  "sesamöl": {
+    "title": "Shan'shi Sesamöl geröstet zum Würzen",
+    "brand": "Shan'shi",
+    "unit_info": "100 ML",
+    "price": 2.59,
+    "url": "https://www.spar.at/produktwelt/p/7608025",
+    "product_id": "7608025",
+    "search_term": "Sesamöl"
+  },
+  "rapsöl": {
+    "title": "S-BUDGET Reines Rapsöl",
+    "brand": "S-BUDGET",
+    "unit_info": "1 L",
+    "price": 1.89,
+    "url": "https://www.spar.at/produktwelt/p/2020000850823",
+    "product_id": "2020000850823",
+    "search_term": "Rapsöl"
+  },
+  "bbq": {
+    "title": "Millas Squeeze BBQ",
+    "brand": "Millas",
+    "unit_info": "300 ML",
+    "price": 2.49,
+    "url": "https://www.spar.at/produktwelt/p/2020003755521",
+    "product_id": "2020003755521",
+    "search_term": "BBQ Sauce"
+  },
+  "pesto": {
+    "title": "SPAR Pesto ai Pomodori Secchi",
+    "brand": "SPAR",
+    "unit_info": "190 G",
+    "price": 1.49,
+    "url": "https://www.spar.at/produktwelt/p/5583751",
+    "product_id": "5583751",
+    "search_term": "Pesto"
+  },
+  "currypaste": {
+    "title": "DeSIAM Gelbe Thai Currypaste 70g",
+    "brand": "DeSIAM",
+    "unit_info": "",
+    "price": 2.39,
+    "url": "https://www.spar.at/produktwelt/p/2020004167309",
+    "product_id": "2020004167309",
+    "search_term": "Currypaste"
+  },
+  "mehl": {
+    "title": "Mantler Brillant-Mehl Weizenmehl T480 extragriffig",
+    "brand": "Mantler",
+    "unit_info": "1 KG",
+    "price": 1.39,
+    "url": "https://www.spar.at/produktwelt/p/3457665",
+    "product_id": "3457665",
+    "search_term": "Mehl"
+  },
+  "mayonnaise": {
+    "title": "SPAR Mayonnaise 50% Fett",
+    "brand": "SPAR",
+    "unit_info": "250 G",
+    "price": 1.69,
+    "url": "https://www.spar.at/produktwelt/p/3972380",
+    "product_id": "3972380",
+    "search_term": "Mayonnaise"
+  },
+  "senf": {
+    "title": "Mautner Markhof Estragon Senf",
+    "brand": "Mautner Markhof",
+    "unit_info": "100 G",
+    "price": 1.19,
+    "url": "https://www.spar.at/produktwelt/p/4344339",
+    "product_id": "4344339",
+    "search_term": "Senf"
+  },
+  "walnüsse": {
+    "title": "SPAR Walnüsse gerieben",
+    "brand": "SPAR",
+    "unit_info": "200 G",
+    "price": 2.99,
+    "url": "https://www.spar.at/produktwelt/p/5319459",
+    "product_id": "5319459",
+    "search_term": "Walnüsse"
+  },
+  "kreuzkümmel": {
+    "title": "Kung Fu Kreuzkümmel gemahlen",
+    "brand": "Kung Fu",
+    "unit_info": "",
+    "price": 2.99,
+    "url": "https://www.spar.at/produktwelt/p/2020005241329",
+    "product_id": "2020005241329",
+    "search_term": "Kreuzkümmel"
+  },
+  "lorbeer": {
+    "title": "Menes Lorbeer",
+    "brand": "Menes",
+    "unit_info": "",
+    "price": 2.49,
+    "url": "https://www.spar.at/produktwelt/p/3893715",
+    "product_id": "3893715",
+    "search_term": "Lorbeer"
+  },
+  "lachs": {
+    "title": "SPAR BBQ Lachs Kräuter",
+    "brand": "SPAR BBQ",
+    "unit_info": "250 G",
+    "price": 8.49,
+    "url": "https://www.spar.at/produktwelt/p/2020001922512",
+    "product_id": "2020001922512",
+    "search_term": "Lachs"
+  },
+  "joghurt": {
+    "title": "Schärdinger Greek Style Joghurt Mango & Maracuja",
+    "brand": "Schärdinger Greek Style",
+    "unit_info": "175 G",
+    "price": 0.62,
+    "url": "https://www.spar.at/produktwelt/p/2020004853400",
+    "product_id": "2020004853400",
+    "search_term": "Joghurt griechischer Art natur"
+  },
+  "ahornsirup": {
+    "title": "SPAR Natur*pur Bio-Ahornsirup kräftig",
+    "brand": "SPAR Natur*pur",
+    "unit_info": "250 ML",
+    "price": 4.99,
+    "url": "https://www.spar.at/produktwelt/p/1088793",
+    "product_id": "1088793",
+    "search_term": "Ahornsirup Maple"
+  },
+  "sesam": {
+    "title": "Stelzh. Korn - spitz Sesam 70g Kornspitz Sesam",
+    "brand": "Stelzh. Korn - spitz Sesam 70g",
+    "unit_info": "1 STK",
+    "price": 1.35,
+    "url": "https://www.spar.at/produktwelt/p/2969732",
+    "product_id": "2969732",
+    "search_term": "Sesam Saat"
+  },
+  "kurkuma": {
+    "title": "Kung Fu Kurkuma gemahlen",
+    "brand": "Kung Fu",
+    "unit_info": "",
+    "price": 2.99,
+    "url": "https://www.spar.at/produktwelt/p/2020005241299",
+    "product_id": "2020005241299",
+    "search_term": "Kurkuma gemahlen"
+  }
+}
